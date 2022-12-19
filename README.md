@@ -1,4 +1,4 @@
-# nurse_todo_app
+# Nurse Todos App
 
 - Instructions:
 You can run app directly by downloading the repository as ZIP and then open in any IDE
