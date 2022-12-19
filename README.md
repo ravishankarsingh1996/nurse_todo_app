@@ -1,16 +1,21 @@
 # nurse_todo_app
 
-A new Flutter project.
+- Instructions:
+You can run app directly by downloading the repository as ZIP and then open in any IDE
+Run pub get
+Run you app directly on device
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+- What you were trying to implement but it did not work
+I was trying to implement the logic to show the current shift todos only to the nurse but it
+didn't went well and needed more time to configure.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- What you would implement if you had more time (be specific here)
+1. Right now the pending task will be automatically added to next shift if they are in complete but
+I was planning to add an option for the Nurses to let them know they have some pending task and
+that needs to be transferred to next shift.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Additional things
+I have added a filter option at the top to filter the todos with the patient name.
+Todos can be created for any specific patients (It will make easier to filter out the todos they need to work in their shift)
