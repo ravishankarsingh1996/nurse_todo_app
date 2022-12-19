@@ -157,7 +157,7 @@ class _TodoListState extends State<TodoList> {
   void _initTodoStream(String residentsId) {
     _todosStream = db
         .collection('todos')
-        // .orderBy('toBeDoneAt', descending: false)
+        .orderBy('toBeDoneAt', descending: false)
         .where('relatedToResidentID', isEqualTo: residentsId)
         .where('isCompleted', isEqualTo: false)
         .snapshots();
