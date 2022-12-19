@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1005254691200",
+    "project_id": "nurse-todo",
+    "storage_bucket": "nurse-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005254691200:android:c537e79239470e4a009965",
+        "android_client_info": {
+          "package_name": "com.nursetodo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005254691200-tous9u41f3414e1k0bgr7aclh2165uc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nursetodo.app",
+            "certificate_hash": "2b3ec8865f1ee8a2491b6ec263e3b8729faa0828"
+          }
+        },
+        {
+          "client_id": "1005254691200-r1kgs82h2304cds3v4vif00j367hujna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALE0XLdTO3KYANXDnLDIKPIwOZtDzOniU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005254691200-r1kgs82h2304cds3v4vif00j367hujna.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005254691200-hrege5s6f3auand39lcm19ungalhm000.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nursetodo.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
